@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/evelyncastro/Desktop/CS131/Ch-1/Ch1-source",
+      "program": "/Users/evelyncastro/Desktop/CS131/Ch-1/Ch1-source/build/Debug/outDebug"
+    }
+  ]
+}
