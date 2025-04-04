@@ -1,0 +1,14 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/evelyncastro/Desktop/Lab08_2025/2024-03-21/2024-03-21/main'
+relocations:
+  - { offset: 0x5B62, size: 0x8, addend: 0x0, symName: __ZStL8__ioinit, symObjAddr: 0x2DBB9, symBinAddr: 0x100008000, symSize: 0x0 }
+  - { offset: 0x5E91, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x598, symBinAddr: 0x100003C24, symSize: 0x84 }
+  - { offset: 0x5EFB, size: 0x8, addend: 0x0, symName: __Z9mergeSortPii, symObjAddr: 0x4F0, symBinAddr: 0x100003B7C, symSize: 0xA8 }
+  - { offset: 0x5F7A, size: 0x8, addend: 0x0, symName: __Z10bubbleSortPii, symObjAddr: 0x3FC, symBinAddr: 0x100003A88, symSize: 0xF4 }
+  - { offset: 0x6008, size: 0x8, addend: 0x0, symName: __Z13insertionSortPii, symObjAddr: 0x300, symBinAddr: 0x10000398C, symSize: 0xFC }
+  - { offset: 0x60A8, size: 0x8, addend: 0x0, symName: __Z13selectionSortPii, symObjAddr: 0x178, symBinAddr: 0x100003804, symSize: 0x188 }
+  - { offset: 0x6148, size: 0x8, addend: 0x0, symName: __Z13printIntArrayiPi, symObjAddr: 0xD0, symBinAddr: 0x10000375C, symSize: 0xA8 }
+  - { offset: 0x61AA, size: 0x8, addend: 0x0, symName: __Z20generateIntArrayCopyiPi, symObjAddr: 0x88, symBinAddr: 0x100003714, symSize: 0x48 }
+  - { offset: 0x61FA, size: 0x8, addend: 0x0, symName: __Z22generateRandomIntArrayi, symObjAddr: 0x0, symBinAddr: 0x10000368C, symSize: 0x88 }
+...

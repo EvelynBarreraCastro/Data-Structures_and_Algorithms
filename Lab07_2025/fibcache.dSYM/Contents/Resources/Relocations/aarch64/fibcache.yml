@@ -1,0 +1,11 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/evelyncastro/Desktop/Lab07_2025/fibcache'
+relocations:
+  - { offset: 0x514D, size: 0x8, addend: 0x0, symName: __ZStL8__ioinit, symObjAddr: 0x16898, symBinAddr: 0x100008000, symSize: 0x0 }
+  - { offset: 0x516B, size: 0x8, addend: 0x0, symName: __ZL8MAX_TERM, symObjAddr: 0x2D8, symBinAddr: 0x100003DD0, symSize: 0x0 }
+  - { offset: 0x52CC, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x1EC, symBinAddr: 0x100003C18, symSize: 0xEC }
+  - { offset: 0x5349, size: 0x8, addend: 0x0, symName: __Z3fibiPi, symObjAddr: 0x104, symBinAddr: 0x100003B30, symSize: 0xE8 }
+  - { offset: 0x538C, size: 0x8, addend: 0x0, symName: __Z9initCachePi, symObjAddr: 0xA0, symBinAddr: 0x100003ACC, symSize: 0x64 }
+  - { offset: 0x53DB, size: 0x8, addend: 0x0, symName: __Z10printCachePi, symObjAddr: 0x0, symBinAddr: 0x100003A2C, symSize: 0xA0 }
+...
